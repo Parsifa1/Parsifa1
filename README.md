@@ -6,7 +6,7 @@
 
 * I'm Parsifa1
 * Vimer, ACMer
-* Playing ❄️Nixos
+* Playing Nixos❄️
 * Owl🦉
 
 
